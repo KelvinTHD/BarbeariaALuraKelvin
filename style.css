@@ -9,8 +9,11 @@ body{   font-size: 16px;
 
 .beneficios{text-align: center;}
 
-.imagem-beneficio{width: 100%;}
+.imagem-beneficio{width: 50%;}
 
 .imagem{width: 100%;}
 
 .titulo{padding: 20px;}
+
+.lista{display: inline-block;
+vertical-align: top;}
